@@ -1,0 +1,24 @@
+
+---
+
+### 📁 **3. Criar o Repositório no GitHub**
+
+1. Vá até [https://github.com](https://github.com)
+2. Clique em **“+” → “New repository”**
+3. Nomeie seu repositório, por exemplo: `pagina-institucional`
+4. Marque para **inicializar com um README**
+5. Clique em **Create repository**
+
+---
+
+### 💻 **4. Subir o Projeto**
+
+Abra o terminal e digite os comandos:
+
+```bash
+cd /caminho/do/seu/projeto
+git init
+git remote add origin https://github.com/seu-usuario/pagina-institucional.git
+git add .
+git commit -m "Versão inicial do site"
+git push -u origin main
