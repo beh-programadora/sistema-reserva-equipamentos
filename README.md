@@ -1,34 +1,42 @@
-# 🌐 Página Institucional Responsiva
+# 🔍 Portal de Consultas
 
-Este é um projeto de uma página institucional desenvolvida com **HTML5**, **CSS3** e **JavaScript**, focada em design responsivo e layout moderno.
+Sistema web para **consulta de protocolos e situações**. A interface foi desenvolvida com foco em **simplicidade, performance e visual moderno**, utilizando HTML, CSS e JavaScript puro.
 
-🔗 Acesse a página online:  
-👉 [Descubra a interface completa aqui](https://teal-kangaroo-cf8e6c.netlify.app/)
+> 🔗 Projeto online no Netlify:  
+👉 [Acesse aqui o Portal de Consultas](https://teal-kangaroo-cf8e6c.netlify.app/)
 
 ---
 
-## 📌 Funcionalidades
+## 📸 Preview da Interface
 
-- ✅ Layout responsivo (mobile, tablet e desktop)
-- ✅ Navegação fluida com rolagem suave
-- ✅ Seções de apresentação, serviços e contato
-- ✅ Design visualmente agradável com CSS moderno
+![Preview da Interface](./assets/preview.png)
+
+---
+
+## 💡 Sobre o Projeto
+
+O **Portal de Consultas** foi criado com o objetivo de permitir buscas rápidas e intuitivas por **nomes, protocolos ou situações**.
+
+A proposta é oferecer uma experiência fluida, sem expor os dados diretamente na tela — o usuário precisa buscar ativamente para ver o conteúdo, o que oferece mais controle e organização visual.
+
+### Funcionalidades:
+
+- Campo de busca com digitação dinâmica
+- Estilo moderno com **tema escuro e degradê**
+- Ícone de alternância de tema (modo claro/escuro)
+- Feedback visual ao usuário durante a busca
+- Layout responsivo e otimizado
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
+- HTML5 (estrutura semântica)
+- CSS3 (custom properties, gradients e responsividade)
+- JavaScript (interatividade e lógica de busca)
+- Netlify (hospedagem gratuita e rápida)
 
 ---
 
-## 🖼️ Imagem de Prévia
+## 📁 Estrutura do Projeto
 
-> *Adicione aqui uma imagem da tela do site para mostrar o visual (opcional).*
-
-Exemplo:
-
-```html
-<img src="assets/screenshot.png" alt="Preview da página" width="100%">
